@@ -11,6 +11,14 @@
 ![](https://img.shields.io/badge/Cloud-AWS_Lambda-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS_DynamoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Technology-Android_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Arduino-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Raspberry_Pi-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-SQL_Relational_Database-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ### Featured Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashpuneet&repo=Alexa-Motivational-ToDo-List&theme=vision-friendly-dark)](https://github.com/yashpuneet/Alexa-Motivational-ToDo-List)
