@@ -1,4 +1,4 @@
-# Yash Puneet
+<img src="https://github.com/yashpuneet/yashpuneet/blob/main/Github%20Profile%20Header.png" alt="banner that says Yash Puneet">
 
 ### Skills:
 
