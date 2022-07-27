@@ -25,3 +25,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashpuneet&repo=Flixster&theme=vision-friendly-dark)](https://github.com/yashpuneet/Flixster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashpuneet&repo=SimpleTweet&theme=vision-friendly-dark)](https://github.com/yashpuneet/SimpleTweet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashpuneet&repo=Parstagram&theme=vision-friendly-dark)](https://github.com/yashpuneet/Parstagram)
+
+### Additional Info:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpuneet&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/yashpuneet)
+
