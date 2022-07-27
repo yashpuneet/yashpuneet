@@ -1,5 +1,13 @@
 # Yash Puneet
 
+### Skills:
+
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Arduino C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ### Featured Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashpuneet&repo=Alexa-Motivational-ToDo-List&theme=vision-friendly-dark)](https://github.com/yashpuneet/Alexa-Motivational-ToDo-List)
