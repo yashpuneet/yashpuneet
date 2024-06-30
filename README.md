@@ -1,5 +1,3 @@
-<img src="https://github.com/yashpuneet/yashpuneet/blob/main/Github%20Profile%20Header.png" alt="banner that says Yash Puneet">
-
 ### Skills:
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
